@@ -4,9 +4,9 @@
  * _abs - This function prints the
  * absolute value of any interger entered.
  *
- * @int: The number to be checked.
+ * @n: The number to be checked.
  *
- * Return: returns 0 on succes.
+ * Return: returns int n.
  */
 
 int _abs(int n)
