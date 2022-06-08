@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * _isalpha() - This function checks
+ * _isalpha - This function checks
  * for alphabetic character.
  *
  * @c: This is the input to be checked.
