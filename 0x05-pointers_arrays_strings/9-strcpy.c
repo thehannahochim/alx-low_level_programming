@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * *_strcpy - This function copies
+ * _strcpy - This function copies
  * one string into another buffer.
  *
  * @dest: destination
  * @src: source
  *
- * return: Destination character.
+ * Return: char.
  */
 
 char *_strcpy(char *dest, char *src)
