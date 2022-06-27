@@ -21,5 +21,5 @@ int _strlen(char *s)
 		length = length + 1;
 		i++;
 	}
-	return(length);
+	return (length);
 }
